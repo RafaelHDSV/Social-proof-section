@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-proof-section-html-css-tDX4lOjwc4
 - Live Site URL: https://social-proof-section-rafael.netlify.app
 
 ## My process
