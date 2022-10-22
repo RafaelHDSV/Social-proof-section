@@ -23,16 +23,16 @@ Users should be able to:
 
   - Desktop
   
-    ![](/IMG/Nota%20Interativa/desktop.png)
+    ![](images/desktop.png)
     
   - Mobile
   
-    ![](/IMG/Nota%20Interativa/mobile.png)
+    ![](images/mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://social-proof-section-rafael.netlify.app
 
 ## My process
 
